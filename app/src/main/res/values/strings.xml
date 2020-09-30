@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">IAP Kit Java</string>
+    <string name="version">Version</string>
+    <string name="user_cancel">User cancelled transaction</string>
+    <string name="already_owned">User already owns product</string>
+    <string name="fail">Pay failed</string>
+    <string name="success">Pay success</string>
+    <string name="consumable">Consumable</string>
+
+</resources>
